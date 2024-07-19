@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis
+# Exploratory Data Analysis with pandas profiling
 EDA and pandas profiling to understand your data before machine learning
 
 - Exploratory Data Analysis (EDA) is crucial for developing effective machine learning models.
