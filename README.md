@@ -9,5 +9,5 @@ EDA and pandas profiling to understand your data before machine learning
 - Pandas profiling is a very powerful tool that enables user to get a complete report on the EDA of your data
 
 ## Why EDA?
-* Understand which variables could be important in predicting the Y (response).
-* Generate insights that give us more understanding of the business context and performance
+* Understand the variables that could be important in predicting the target variable.
+* Generate insights that give us more understanding of the context and performance of the problem under study.
